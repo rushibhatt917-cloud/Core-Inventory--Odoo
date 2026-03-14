@@ -1,4 +1,4 @@
-# 👗 OneStitch
+# 👗 DigiStock
 > A modular, real-time Inventory Management System for clothing stores — replacing manual registers and Excel sheets with a centralized, easy-to-use digital platform.
 
 ---
@@ -27,9 +27,9 @@ This leads to:
 
 ---
 
-## 💡 Our Solution — OneStitch
+## 💡 Our Solution — DigiStock
 
-**OneStitch** is a modular Inventory Management System that digitizes and streamlines all stock-related operations for a clothing store.
+**DigiStock** is a modular Inventory Management System that digitizes and streamlines all stock-related operations for a clothing store.
 
 It replaces manual processes with a **centralized, real-time web application** that automatically updates stock the moment garments arrive, move, or are sold — with zero manual calculation.
 
@@ -201,20 +201,10 @@ Final stock: 58 Kurtis — all movements in Stock Ledger ✅
 
 | Name | Role |
 |------|------|
-| [Team Leader Name] | Team Lead & Developer |
-| [Developer Name] | Backend & Database |
-| [Developer Name] | Frontend & UI |
-| [Your Name] | Business Analyst & Presenter |
+| [Rushi Bhatt] | Team Lead & Developer |
+| [Dhanraj Beldar] | Backend & Database |
+| [Helly Shah] | Frontend & UI |
+| [Jinay Prajapati] | Backend & Database |
 
-**Team Name:** [Your Team Name]
+**Team Name:** [Codehacks]
 **Hackathon:** Odoo Hackathon 2026
-
----
-
-## 📞 Support
-
-For hackathon queries: [Odoo Helpdesk](https://hackathon.odoo.com)
-
----
-
-*Built with ❤️ at Odoo Hackathon 2026 — Bringing clothing stores into the digital age, one stitch at a time.*
